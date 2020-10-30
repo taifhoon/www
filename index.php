@@ -14,7 +14,7 @@
     <br>
     <img src="foon.jpg">
     <br>
-    <a href="https://www.facebook.com/TAIFHOON">Link To My Page</a>
+    <a href="https://www.facebook.com/TAIFHOON">Link To My Page Facebook</a>
 
     <h1>Story</h1>
     <h3>ณ คลีนิคแห่งหนึ่ง</h3>
