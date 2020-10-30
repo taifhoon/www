@@ -10,7 +10,9 @@
     <p>Ariyapon Unakul(TAIFHOON)</p>
     <img src="back.jpg">
     <br>
-    <img src="pubg.jpg"><img src="foon.jpg">
+    <img src="pubg.jpg">
+    <br>
+    <img src="foon.jpg">
     <br>
     <a href="https://www.facebook.com/TAIFHOON">Link To My Page</a>
 
