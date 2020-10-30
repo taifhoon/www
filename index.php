@@ -8,7 +8,7 @@
 <body>
     <h1>My Profile</h1>
     <p>Ariyapon Unakul(TAIFHOON)</p>
-    <img src="back.jpg">
+    <img src="back.jpg" style="width:1920;height:1080>
     <br>
     <img src="pubg.jpg">
     <br>
