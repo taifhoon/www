@@ -8,11 +8,11 @@
 <body>
     <h1>My Profile</h1>
     <p>Ariyapon Unakul(TAIFHOON)</p>
-    <img src="back.jpg">
+    <img src="back.jpg" class="center">
     <br>
-    <img src="pubg.jpg"> 
+    <img src="pubg.jpg" class="center"> 
     <br>
-    <img src="foon.jpg">
+    <img src="foon.jpg" class="center">
     <br>
     <a href="https://www.facebook.com/TAIFHOON">Link To My Page Facebook</a>
 
