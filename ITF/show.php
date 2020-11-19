@@ -33,10 +33,10 @@
 							<table class="table table-borderless table-hover">
 								<thead>
 									<tr>
-										<th width="150px">EDIT/DELETE</th>
 										<th>Name</th>
 										<th>Comment</th>
 										<th>Link</th>
+										<th width="150px">EDIT/DELETE</th>
 									</tr>
 								</thead>
 								<tbody>
