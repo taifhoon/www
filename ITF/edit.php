@@ -6,7 +6,7 @@
 	$sql = 'SELECT * FROM guestbook WHERE ID = '.$id.'';
 	$query = mysqli_query($conn, $sql);
 	if(!$query) {
-		header('Location: index.php');
+		header('Location: form.php');
 	}
 	else {
 		$data = mysqli_fetch_assoc($query);
