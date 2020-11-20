@@ -10,7 +10,7 @@
 		}
 	</style>
 </head>
-<body class="bg-light py-5">
+<body class="bg-dark py-5">
 	<div class="container text-dark">
 		<div class="row">
 			<div class="col-12 col-lg-8 offset-lg-2">
