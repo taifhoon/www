@@ -36,7 +36,7 @@
 							}
 						?>
 						</h2>
-						<p align="center" class="mt-4 mb-0"><a href="show.php" class="btn btn-sm btn-success">BACK</a></p>
+						<p align="center" class="mt-4 mb-0"><a href="show.php" class="btn btn-sm btn-success font-weight-bold">BACK</a></p>
 					</div>
 				</div>
 			</div>
