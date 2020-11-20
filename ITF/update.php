@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Edit | 13th ITF LAB</title>
+	<title>Edit LAB ITF</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
 	<style type="text/css">
@@ -20,7 +20,7 @@
 		}
 	</style>
 </head>
-<body class="bg-light py-5">
+<body class="bg-dark py-5">
 	<div class="container text-dark">
 		<div class="row">
 			<div class="col-12 col-lg-8 offset-lg-2">
@@ -32,7 +32,7 @@
 								echo "EDIT COMPLETED";
 							}
 							else {
-								echo "FAILED TO EDIT";
+								echo "EDIT FAILED";
 							}
 						?>
 						</h2>
